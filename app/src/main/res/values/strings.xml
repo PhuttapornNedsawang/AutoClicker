@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">คลิกอัตโนมัติ</string>
+    <string name="service_desc">ใช้จำลองการแตะหน้าจอตามตำแหน่งและช่วงเวลาที่ผู้ใช้กำหนดเท่านั้น</string>
+</resources>
